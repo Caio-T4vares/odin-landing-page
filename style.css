@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  font-family: "Roboto";
+}
+
+.alignment {
+  padding: 16px 112px;
+}
+
+ul {
+  list-style-type: none;
+
+  display: flex;
+  gap: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  font-weight: 900;
+  color: white;
+}
+
+.dark-bg {
+  background-color: #1f2937;
+}
