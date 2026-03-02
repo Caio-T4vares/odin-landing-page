@@ -159,3 +159,12 @@ header {
   font-weight: bold;
   text-align: right;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 24px;
+  color: #e5e7eb;
+}
