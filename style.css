@@ -168,3 +168,32 @@ footer {
   padding: 24px;
   color: #e5e7eb;
 }
+
+.call-to-action-section {
+  background-color: #3882f6;
+  border-radius: 12px;
+
+  margin: 96px 20%;
+  padding: 48px 24px;
+
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.call-to-action-section p {
+  color: #e5e7eb;
+  font-size: 20px;
+}
+
+.call-to-action-section button {
+  border: 1px solid white;
+  color: #e5e7eb;
+  background-color: #3882f6;
+  border-radius: 8px;
+  padding: 2px 36px;
+  font-weight: bold;
+}
+
+.bold {
+  font-weight: bold;
+}
